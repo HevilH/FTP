@@ -1,0 +1,3 @@
+DoubleClick exe file
+When PORT commands execute, it sends internal ip.
+environment:window
